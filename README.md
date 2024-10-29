@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Análisis Espacial de Casos de COVID-19 en Perú (2021) - Tarea 4</title>
 </head>
 <body>
 
-<h1>Análisis Espacial de Casos de COVID-19 en Perú (2021) - Tarea 4</h1>
+<h1>Análisis Espacial de Casos de COVID-19 en Perú (2022) - Tarea 4</h1>
 
 <h2>Introducción y Fuente de Datos</h2>
 <p>
@@ -32,18 +31,25 @@
 </ul>
 
 <h2>Resultados</h2>
-<p>
-    Todo el procedimiento se puede observar al detalle en el archivo HTML. . 
-    <a href="[https://www.datosabiertos.gob.pe](https://michaelencalada.github.io/week10_spatial/Tarea4.html)" target="_blank">Tarea en Python</a>.
+<p>Todo el procedimiento se puede observar al detalle en el archivo HTML adjunto y en el código de la tarea en Python.
+ <a href="[https://www.datosabiertos.gob.pe](https://michaelencalada.github.io/week10_spatial/Tarea4.html)" target="_blank">Enlace a códigos</a>. 
 </p>
 
 
 <h2>Visualización</h2>
 <ul>
     <li><strong>Moran Scatterplot y Mapas de Clusters:</strong> Gráficos y mapas detallan la intensidad de los casos y la agrupación de valores altos y bajos a nivel provincial.</li>
-    <li><strong>Gráficos:</strong> Índice de Moran</li> 
+    <li><strong>Gráficos:</strong></li>
+    <ul>
+        <li>1. Índice de Moran <img src="images/moran_index.png" alt="Gráfico del Índice de Moran" width="500"></li>
+        <li>2. Análisis LISA <img src="images/lisa_analysis.png" alt="Análisis LISA" width="500"></li>
+        <li>3. LISA Bivariado <img src="images/lisa_bivariate.png" alt="LISA Bivariado" width="500"></li>
+    </ul>
+</ul>
+
 </ul>
 
 </body>
 </html>
+
 
