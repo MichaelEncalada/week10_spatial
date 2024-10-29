@@ -14,6 +14,12 @@
     <a href="https://www.datosabiertos.gob.pe" target="_blank">Enlace a la base de datos</a>.
 </p>
 
+<h2>Códigos</h2>
+<p>
+    Todo el procedimiento se puede observar al detalle en el archivo HTML adjunto y en el código de la tarea en Python.
+ <a href="https://michaelencalada.github.io/week10_spatial/Tarea4.html" target="_blank">Enlace a códigos</a>. 
+</p>
+
 <h2>Análisis espacial</h2>
 <ul>
     <li><strong>Periodo de Análisis:</strong> Se analizaron los datos entre 2020 y 2024, con un enfoque específico en el año 2022.</li>
@@ -30,12 +36,6 @@
     <li><strong>LISA Bivariado:</strong> Evaluamos la relación espacial entre los casos de COVID-19 en 2021 y 2022, identificando áreas donde la incidencia se mantuvo alta (HH) o baja (LL), lo cual es útil para estrategias de salud pública enfocadas en reducir la transmisión.</li>
 </ul>
 
-<h2>Códigos</h2>
-<p>
-    Todo el procedimiento se puede observar al detalle en el archivo HTML adjunto y en el código de la tarea en Python.
- <a href="https://michaelencalada.github.io/week10_spatial/Tarea4.html" target="_blank">Enlace a códigos</a>. 
-</p>
-
 
 <h2>Gráficos</h2>
 <ul>
@@ -44,13 +44,13 @@
     <ul>
         <li>1. Índice de Moran <img src="![image](https://github.com/user-attachments/assets/15b45a05-87f7-421f-a458-c0f642c69fac)
 " alt="Gráfico del Índice de Moran" width="500"></li>
-        <li>2. Índice de Moran color <img src="![image](https://github.com/user-attachments/assets/627da114-fa0a-4af7-9a11-c9e0a83bf0ed)
+        <li>2. Índice de Moran color <img src="https://github.com/user-attachments/assets/627da114-fa0a-4af7-9a11-c9e0a83bf0ed
 "></li>
-        <li>3. Análisis LISA <img src="![image](https://github.com/user-attachments/assets/dc9d5afd-d329-4461-9dcd-ec72ee01c87a)
+        <li>3. Análisis LISA <img src="https://github.com/user-attachments/assets/dc9d5afd-d329-4461-9dcd-ec72ee01c87a
 " width="500"></li>
-        <li>4. LISA Bivariado <img src="![image](https://github.com/user-attachments/assets/a81713bb-5213-4a83-987c-9aa3f2932621)
+        <li>4. LISA Bivariado <img src="https://github.com/user-attachments/assets/a81713bb-5213-4a83-987c-9aa3f2932621
 " alt="LISA Bivariado" width="500"></li>
-         <li>4. LISA Bivariado - Mapa <img src="![image](https://github.com/user-attachments/assets/b7fdad6a-699c-453f-b0ad-39536c14e126)
+         <li>4. LISA Bivariado - Mapa <img src="https://github.com/user-attachments/assets/b7fdad6a-699c-453f-b0ad-39536c14e126
 "></li>
     </ul>
 </ul>
