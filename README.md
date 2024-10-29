@@ -42,16 +42,9 @@
     <li><strong>Moran Scatterplot y Mapas de Clusters:</strong> Gráficos y mapas detallan la intensidad de los casos y la agrupación de valores altos y bajos a nivel provincial.</li>
     <li><strong>Gráficos:</strong></li>
     <ul>
-        <li>1. Índice de Moran <img src="![image](https://github.com/user-attachments/assets/15b45a05-87f7-421f-a458-c0f642c69fac)
-" alt="Gráfico del Índice de Moran" width="500"></li>
-        <li>2. Índice de Moran color <img src="https://github.com/user-attachments/assets/627da114-fa0a-4af7-9a11-c9e0a83bf0ed
-"></li>
-        <li>3. Análisis LISA <img src="https://github.com/user-attachments/assets/dc9d5afd-d329-4461-9dcd-ec72ee01c87a
-" width="500"></li>
-        <li>4. LISA Bivariado <img src="https://github.com/user-attachments/assets/a81713bb-5213-4a83-987c-9aa3f2932621
-" alt="LISA Bivariado" width="500"></li>
-         <li>4. LISA Bivariado - Mapa <img src="https://github.com/user-attachments/assets/b7fdad6a-699c-453f-b0ad-39536c14e126
-"></li>
+        <li>1. Índice de Moran </li>  ![image](https://github.com/user-attachments/assets/548e85af-8427-4ef8-bade-f5e7be453152)
+        <li>2. Análisis LISA </li> ![image](https://github.com/user-attachments/assets/c1cf5718-569d-4628-83c9-d92c15a4e636)
+        <li>3. LISA Bivariado </li> ![image](https://github.com/user-attachments/assets/0d09bac0-9637-4bae-acbd-18cd91933869)
     </ul>
 </ul>
 
