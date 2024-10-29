@@ -16,7 +16,7 @@
 
 <h2>Metodología</h2>
 <ul>
-    <li><strong>Periodo de Análisis:</strong> Se analizaron los datos entre 2020 y 2024, con un enfoque específico en el año 2021.</li>
+    <li><strong>Periodo de Análisis:</strong> Se analizaron los datos entre 2020 y 2024, con un enfoque específico en el año 2022.</li>
     <li><strong>Distribución Geográfica:</strong> Utilizamos datos geográficos a nivel de departamento y provincia, integrados mediante <em>geopandas</em> para visualizar los casos de COVID-19 en mapas de Perú.</li>
     <li><strong>Índice de Moran:</strong> Calculamos el índice de Moran global, que reveló una débil autocorrelación espacial positiva (I = 0.17), sugiriendo que áreas con altas (o bajas) tasas de casos tienden a estar cerca, pero esta relación no es fuerte.</li>
     <li><strong>Análisis LISA:</strong> Identificamos patrones locales de autocorrelación:
